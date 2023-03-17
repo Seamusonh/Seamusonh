@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Seamusonh
-- 🌱 I’m currently learning CS50x with the aim of becoming a backend developer or software engineer
-- 💞️ I’m looking to collaborate on ... anything really 
 - 📫 How to reach me ... seamusonh@gmail.com
 
 <!---
